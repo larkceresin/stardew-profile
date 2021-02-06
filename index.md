@@ -7,6 +7,14 @@ Still in progress at this point. What I'm looking to do:
 - create a form so users can enter their name and make some selections
 	- need to determine what selections are made by user and which things will randomly be generated
 - have form information populate page with images and text, and possibly some random generated content on submit.
+### Future Considerations
+- Character customization
+	- User able to choose details for characters
+		- Hair color/ Style
+		- Eye color
+		- Clothing
+		- Facial features
+-User able to upload their own photo(s) for use.
 
 ## Resources
 1. [Template](https://imgur.com/OM6xjLQ) 
