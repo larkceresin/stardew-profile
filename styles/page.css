@@ -1,0 +1,23 @@
+.page{
+    font-family: "Stardew";
+    background-image: url('../images/background.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 5%;
+    position: relative;
+}
+.page__content{
+    width: 85vw;
+    background-color: #ffc699;
+    border-style:solid;
+    border-color: #bc6700;
+    border-width: thick;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: -2%;
+    padding: 2%;
+    
+}

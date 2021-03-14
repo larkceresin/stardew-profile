@@ -1,0 +1,10 @@
+.header{
+    font-family: "wood";
+    color: #e0a100;
+    font-size: 4em;
+    border: solid, red 15px;
+    box-sizing: border-box;
+    margin: 0 5% 0;
+    padding: 0;
+
+}

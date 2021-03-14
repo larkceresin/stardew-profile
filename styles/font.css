@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "Stardew";
+    src:url('../text/Stardew_Valley.otf') format('opentype'),
+        url('../text/Stardew_Valley.ttf') format('truetype');
+}
+@font-face{
+    font-family: "wood";
+    src:url('../text/Fonts/burnstown_dam.otf') format('opentype');
+}
